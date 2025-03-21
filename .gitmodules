@@ -1,0 +1,3 @@
+[submodule "dockeraufgabe"]
+	path = dockeraufgabe
+	url = https://github.com/MudithaFernando/dockeraufgabe.git
